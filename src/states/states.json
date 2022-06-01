@@ -1,0 +1,115 @@
+[
+    {
+          "slug": "Abia_Umuahia"
+     },
+     {
+         "slug": "Adamawa_Yola"
+     },
+     {
+          "slug": "Akwa_Ibom_Uyo"
+     },
+     {
+          "slug": "Anambra_Awka"
+     },
+     {
+          "slug": "Bauchi_Bauchi"
+     },
+     {
+           "slug": "Bayelsa_Yenagoa"
+     },
+     {
+            "slug": "Benue_Makurdi"
+     },
+     {
+           "slug": "Borno_Maiduguri"
+     },
+    {
+            "slug": "Cross_River_Calabar"
+     },
+     {
+         "slug": "Delta_Asaba"
+     },
+     {
+     "slug": "Ebonyi_Abakaliki"
+            },
+     {
+   "slug": "Edo_Benin_City"
+             },
+      {
+     "slug": "Ekiti_Ado_Ekiti"
+              },
+       {
+       "slug": "Enugu_Enugu"
+               },
+        {
+         "slug": "Gombe_Gombe"
+},
+         {
+           "slug": "Imo_Owerri"
+ },
+           {
+               "slug": "Jigawa_Dutse"
+           },
+            {
+ "slug": "Kaduna_Kaduna"
+    },
+    {
+     "slug": "Kano_Kano"
+ },  
+ {
+     "slug": "Katsina_Katsina"
+ },
+ 
+             {
+   "slug": "Kebbi_Birnin_Kebbio"
+     },
+             {
+   "slug": "Kogi_Lokoja"
+     },
+              {
+   "slug": "Kwara_Ilorin"
+     },
+              {
+     "slug": "Lagos_Ikeja"
+      },
+               {
+       "slug": "Nasarawa_Lafia"
+       },
+{
+         "slug": "Niger_Minna"
+        },
+ {
+           "slug": "Ogun_Abeokuta"
+         },
+  {
+             "slug": "Ondo_Akure"
+          },
+          {
+               "slug": "Osun_Oshogbo"
+            },
+   {
+ "slug": "Oyo_Ibadan"
+           },
+    {
+   "slug": "Plateau_Jos"
+            },
+     {
+     "slug": "Rivers_Port Harcourt"
+             },
+      {
+       "slug": "Sokoto_Sokoto"
+},
+       {
+         "slug": "Taraba_Jalingo"
+ },
+        {
+           "slug": "Yobe_Damaturu"
+  },
+         {
+             "slug": "Zamfara_Gusau"
+   },
+     {
+          "slug": "Federal_Capital_Territory_Abuja"
+    }
+
+]
