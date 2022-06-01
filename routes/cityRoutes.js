@@ -1,18 +1,17 @@
 const router = require('express').Router();
-const getFile = require('../utils/readFile');
+// const getFile = require('../utils/readFile');
 const path = require('path');
+const basePath = '../src/cities/';
 
 router.get('/:state', async (req,res)=>{
-     const basePath = '/home/enigma/projects/location-api/src/cities/';
      const {state} = req.params;
-     const fullPath = path.join(basePath,(state.toLowerCase() + '.json'))
-     const data = await getFile(fullPath);
-
-     if(data){
+     const fullPath = path.join(basePath,(state.toLowerCase() + '.js'));
+     const file = await require(`${fullPath}`);
+     if(file){
           return res.status(200).send({
                status:200,
                state: `${state.toUpperCase()} STATE`,
-               cities: data          
+               cities: file          
           })
      }
      return res
