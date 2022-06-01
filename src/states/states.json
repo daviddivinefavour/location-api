@@ -1,115 +1,152 @@
 [
     {
-          "slug": "Abia_Umuahia"
+            "id": 1,   
+       "name": "Abia (Umuahia)"
      },
      {
-         "slug": "Adamawa_Yola"
+            "id": 2,  
+       "name": "Adamawa (Yola)"
      },
      {
-          "slug": "Akwa_Ibom_Uyo"
+            "id": 3,   
+       "name": "Akwa Ibom (Uyo)"
      },
      {
-          "slug": "Anambra_Awka"
+            "id": 4,   
+       "name": "Anambra (Awka)"
      },
      {
-          "slug": "Bauchi_Bauchi"
+            "id": 5,   
+       "name": "Bauchi (Bauchi)"
      },
      {
-           "slug": "Bayelsa_Yenagoa"
+            "id": 6,    
+       "name": "Bayelsa (Yenagoa)"
      },
      {
-            "slug": "Benue_Makurdi"
+            "id": 7,     
+       "name": "Benue (Makurdi)"
      },
      {
-           "slug": "Borno_Maiduguri"
+            "id": 8,    
+       "name": "Borno (Maiduguri)"
      },
     {
-            "slug": "Cross_River_Calabar"
+            "id": 9,     
+       "name": "Cross River (Calabar)"
      },
      {
-         "slug": "Delta_Asaba"
+            "id": 10,  
+       "name": "Delta (Asaba)"
      },
      {
-     "slug": "Ebonyi_Abakaliki"
+          "id": 11,
+       "name": "Ebonyi (Abakaliki)"
             },
      {
-   "slug": "Edo_Benin_City"
+        "id": 12,
+       "name": "Edo (Benin (City)"
              },
       {
-     "slug": "Ekiti_Ado_Ekiti"
+          "id": 13,
+       "name": "Ekiti (Ado (Ekiti)"
               },
        {
-       "slug": "Enugu_Enugu"
+            "id": 14,
+              "name": "Enugu (Enugu)"
                },
         {
-         "slug": "Gombe_Gombe"
+              "id": 15,
+              "name": "Gombe (Gombe)"
 },
          {
-           "slug": "Imo_Owerri"
+                "id": 16,
+              "name": "Imo (Owerri)"
  },
            {
-               "slug": "Jigawa_Dutse"
+                   "id": 17, 
+              "name": "Jigawa (Dutse)"
            },
             {
- "slug": "Kaduna_Kaduna"
+      "id": 18,
+              "name": "Kaduna (Kaduna)"
     },
     {
-     "slug": "Kano_Kano"
+          "id": 19,
+       "name": "Kano (Kano)"
  },  
  {
-     "slug": "Katsina_Katsina"
+          "id": 20,
+       "name": "Katsina (Katsina)"
  },
  
              {
-   "slug": "Kebbi_Birnin_Kebbio"
+        "id": 21,
+              "name": "Kebbi (Birnin (Kebbio)"
      },
              {
-   "slug": "Kogi_Lokoja"
+        "id": 22,
+              "name": "Kogi (Lokoja)"
      },
               {
-   "slug": "Kwara_Ilorin"
+        "id": 23,
+                     "name": "Kwara (Ilorin)"
      },
               {
-     "slug": "Lagos_Ikeja"
+          "id": 24,
+                     "name": "Lagos (Ikeja)"
       },
                {
-       "slug": "Nasarawa_Lafia"
+            "id": 25,
+                     "name": "Nasarawa (Lafia)"
        },
 {
-         "slug": "Niger_Minna"
+            "id": 26,  
+       "name": "Niger (Minna)"
         },
  {
-           "slug": "Ogun_Abeokuta"
+            "id": 27,    
+       "name": "Ogun (Abeokuta)"
          },
   {
-             "slug": "Ondo_Akure"
+            "id": 28,      
+       "name": "Ondo (Akure)"
           },
           {
-               "slug": "Osun_Oshogbo"
+                   "id": 29, 
+              "name": "Osun (Oshogbo)"
             },
    {
- "slug": "Oyo_Ibadan"
+      "id": 30,
+       "name": "Oyo (Ibadan)"
            },
     {
-   "slug": "Plateau_Jos"
+        "id": 31,
+       "name": "Plateau (Jos)"
             },
      {
-     "slug": "Rivers_Port Harcourt"
+          "id": 32,
+       "name": "Rivers (Port Harcourt)"
              },
       {
-       "slug": "Sokoto_Sokoto"
+            "id": 33,
+       "name": "Sokoto (Sokoto)"
 },
        {
-         "slug": "Taraba_Jalingo"
+              "id": 34,
+              "name": "Taraba (Jalingo)"
  },
         {
-           "slug": "Yobe_Damaturu"
+                "id": 35,
+              "name": "Yobe (Damaturu)"
   },
          {
-             "slug": "Zamfara_Gusau"
+                  "id": 36,
+              "name": "Zamfara (Gusau)"
    },
      {
-          "slug": "Federal_Capital_Territory_Abuja"
+            "id": 36,   
+       "name": "Federal Capital Territory (Abuja)"
     }
 
 ]
