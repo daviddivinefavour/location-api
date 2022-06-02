@@ -1,4 +1,4 @@
-[
+const benue = [
      {
                "id": 1,
                "name": "Adikpo"},
@@ -81,3 +81,5 @@
                "id": 27,
                "name": "Zaki Biam"}
 ]
+
+module.exports = benue;

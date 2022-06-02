@@ -1,4 +1,4 @@
-[
+const bayelsa = [
      {
           "id": 1,
           "name": "Amassoma"},
@@ -27,3 +27,5 @@
           "id": 9,
           "name": "Yenagoa"}
 ]
+
+module.exports = bayelsa

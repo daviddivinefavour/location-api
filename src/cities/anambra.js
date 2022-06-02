@@ -1,4 +1,4 @@
-[
+const anambra = [
      {
           "id": 1,
           "name": "Abagana"},
@@ -78,3 +78,5 @@
           "id": 26,
           "name": "Uruobo-Okija"}
 ]
+
+module.exports = anambra;

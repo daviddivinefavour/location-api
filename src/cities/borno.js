@@ -1,4 +1,4 @@
-[
+const borno = [
      {
                "id": 1,
                "name": "Askira"},
@@ -105,3 +105,5 @@
                "id": 35,
                "name": "Yajiwa"}
 ]
+
+module.exports = borno

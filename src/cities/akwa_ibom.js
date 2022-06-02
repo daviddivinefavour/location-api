@@ -1,4 +1,4 @@
-[
+const awkwa_ibom = [
      {
           "id": 1,
           "name": "Abak"},
@@ -96,3 +96,5 @@
           "id": 32,
           "name": "Uyo"}
 ]
+
+module.exports = awkwa_ibom;

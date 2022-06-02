@@ -1,4 +1,4 @@
-[
+const adamawa = [
      {
           "id": 1,
           "name": "Demsa"},
@@ -72,3 +72,5 @@
                "id": 24,
           "name": "Yola"}
 ]
+
+module.exports = adamawa;
