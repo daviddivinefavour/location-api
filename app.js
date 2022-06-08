@@ -12,10 +12,10 @@ app.use('/', (req,res)=>{
           root: path.join(__dirname)
       };
        
-      var fileName = 'README.md';
+      var fileName = './index.html';
       res.sendFile(fileName, options, function (err) {
           if (err) {
-              next(err);
+              console.log(err);
           } else {
               console.log('Sent:', fileName);
           }

@@ -11,10 +11,10 @@ names of the various cities in each state.
 Location-api has been deployed on Heroku. To use it, simply click [here](https://powerful-eyrie-32899.herokuapp.com/api/v1/locations/ 'location-api').
 + To view all the states in Nigeria, add '/states' to the ending of the base URL. 
      An example baseURL/states or click  [here](https://powerful-eyrie-32899.herokuapp.com/api/v1/locations/states 'states').
-\
+
 + To view towns in a specific states,  add '/states' to the ending of the base URL, and the name of the state.
      An example will look like baseURL/states/ABIA or click [here](https://powerful-eyrie-32899.herokuapp.com/api/v1/locations/states/ABIA 'cities').
-\
+
 + To view the cities in the federal capital territory(Abuja), use 'FCT'.
      An example will look like baseURL/states/FCT or click [here](https://powerful-eyrie-32899.herokuapp.com/api/v1/locations/states/FCT).
 \
