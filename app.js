@@ -7,7 +7,7 @@ const path = require('path');
 
 app.use(express.json());
 app.use(express.urlencoded({extended:false}));
-app.use('/', (req,res)=>{
+app.get('/', (req,res)=>{
      var options = {
           root: path.join(__dirname)
       };
