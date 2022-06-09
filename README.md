@@ -1,5 +1,5 @@
 # Location-api
-## _The best api for fetching all various locations in Nigeria_
+## _The best api for fetching all various locations in Nigeria_ https://powerful-eyrie-32899.herokuapp.com/
 
 ## Purpose of location-api
 This api was developed solely for the purpose of fetching the popular locations in Nigeria. 
@@ -8,7 +8,7 @@ It could be used to generate all the states in the country, furthermore, it coul
 names of the various cities in each state.
 
 ## How to use location-api
-Location-api has been deployed on Heroku. To use it, simply click [here](https://powerful-eyrie-32899.herokuapp.com/api/v1/locations/ 'location-api').
+Location-api has been deployed on Heroku. To use it, simply click [here](https://powerful-eyrie-32899.herokuapp.com 'location-api').
 + To view all the states in Nigeria, add '/states' to the ending of the base URL. 
      An example baseURL/states or click  [here](https://powerful-eyrie-32899.herokuapp.com/api/v1/locations/states 'states').
 
@@ -17,8 +17,6 @@ Location-api has been deployed on Heroku. To use it, simply click [here](https:/
 
 + To view the cities in the federal capital territory(Abuja), use 'FCT'.
      An example will look like baseURL/states/FCT or click [here](https://powerful-eyrie-32899.herokuapp.com/api/v1/locations/states/FCT).
-\
-\
-\
+
 
 ### _I hope this is what you are looking for..._ 
