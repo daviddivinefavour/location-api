@@ -1,0 +1,13 @@
+extends layout
+
+block layout-content
+  div.View
+    h1.Banner LOCATION - API
+    div.Message
+      div.Title
+        h3 Cities in #{state.toUpperCase()}
+  each file in files 
+    div.cities.
+      #{file.id}  
+      #{file.name}
+    br

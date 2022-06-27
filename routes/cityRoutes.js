@@ -6,13 +6,16 @@ const basePath = '../src/cities/';
 router.get('/:state', async (req,res)=>{
      const {state} = req.params;
      const fullPath = path.join(basePath,(state.toLowerCase() + '.js'));
-     const file = await require(`${fullPath}`);
-     if(file){
-          return res.status(200).send({
-               status:200,
-               state: `${state.toUpperCase()} STATE`,
-               cities: file          
-          })
+     const files = await require(`${fullPath}`);
+     if(files){
+          
+          return res.status(200).render("citiesView", { files,state });
+
+          // return res.status(200).send({
+          //      status:200,
+          //      state: `${state.toUpperCase()} STATE`,
+          //      cities: file          
+          // })
      }
      return res
      .status(404)

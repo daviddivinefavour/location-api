@@ -145,7 +145,7 @@ const states = [
                "name": "Zamfara (Gusau)"
     },
       {
-             "id": 36,   
+             "id": 37,   
         "name": "Federal Capital Territory (Abuja)"
      }
  
