@@ -21,9 +21,7 @@ app.get('/', (req,res)=>{
       res.sendFile(fileName, options, function (err) {
           if (err) {
               console.log(err);
-          } else {
-              console.log('Sent:', fileName);
-          }
+          } 
       });
 })
 
